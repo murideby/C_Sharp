@@ -10,10 +10,25 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            //Emitir uma mensagem no console
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Meu nome é Débora Murielle");
+            //int - -124 como 2568
+            //float - -15.25 como 25.68f
+            //bool - true ou false
+            //string - "TEXTO"
+            //Char 'a'
+
+            int segundaGuerraMundial = 1942;
+            string cor_favorita = "preto";
+            float velocidadeF1 = 248.58f;
+            bool AconteceuSegundaGuerraMundial = true;
+
+            //Exibir no console
+            Console.WriteLine(segundaGuerraMundial);
+            Console.WriteLine(cor_favorita);
+            Console.WriteLine(velocidadeF1);
+            Console.WriteLine(AconteceuSegundaGuerraMundial);
             Console.ReadLine();
+
+
         }
     }
 }
