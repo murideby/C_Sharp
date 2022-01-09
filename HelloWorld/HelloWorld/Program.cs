@@ -10,6 +10,10 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            //Emitir uma mensagem no console
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Meu nome é Débora Murielle");
+            Console.ReadLine();
         }
     }
 }
