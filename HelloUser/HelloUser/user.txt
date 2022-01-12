@@ -1,0 +1,4 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: HelloUser, Configuração: Debug Any CPU ------
+1>  HelloUser -> C:\Users\ACER\Documents\GitHub\C#\HelloUser\HelloUser\bin\Debug\HelloUser.exe
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========

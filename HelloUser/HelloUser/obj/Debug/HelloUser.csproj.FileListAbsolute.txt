@@ -1,0 +1,8 @@
+C:\Users\ACER\Documents\GitHub\C#\HelloUser\HelloUser\bin\Debug\HelloUser.exe.config
+C:\Users\ACER\Documents\GitHub\C#\HelloUser\HelloUser\bin\Debug\HelloUser.exe
+C:\Users\ACER\Documents\GitHub\C#\HelloUser\HelloUser\bin\Debug\HelloUser.pdb
+C:\Users\ACER\Documents\GitHub\C#\HelloUser\HelloUser\obj\Debug\HelloUser.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\C#\HelloUser\HelloUser\obj\Debug\HelloUser.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\GitHub\C#\HelloUser\HelloUser\obj\Debug\HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\C#\HelloUser\HelloUser\obj\Debug\HelloUser.exe
+C:\Users\ACER\Documents\GitHub\C#\HelloUser\HelloUser\obj\Debug\HelloUser.pdb
