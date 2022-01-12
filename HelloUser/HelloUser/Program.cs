@@ -13,8 +13,8 @@ namespace HelloUser
             string nome = "";
             Console.WriteLine("Qual o seu nome ?");
             nome = Console.ReadLine();
-            Console.WriteLine("Seu nome é:");
-            Console.WriteLine(nome);
+            Console.Write("Seja bem-vindo(a) ");
+            Console.Write(nome);
 
             Console.ReadLine();
         }
