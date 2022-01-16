@@ -1,0 +1,8 @@
+C:\Users\ACER\Documents\GitHub\C#\Operadores_aritmeticos\Operadores_aritmeticos\bin\Debug\Operadores_aritmeticos.exe.config
+C:\Users\ACER\Documents\GitHub\C#\Operadores_aritmeticos\Operadores_aritmeticos\bin\Debug\Operadores_aritmeticos.exe
+C:\Users\ACER\Documents\GitHub\C#\Operadores_aritmeticos\Operadores_aritmeticos\bin\Debug\Operadores_aritmeticos.pdb
+C:\Users\ACER\Documents\GitHub\C#\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\Operadores_aritmeticos.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\C#\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\Operadores_aritmeticos.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\GitHub\C#\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\Operadores_aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\C#\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\Operadores_aritmeticos.exe
+C:\Users\ACER\Documents\GitHub\C#\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\Operadores_aritmeticos.pdb
