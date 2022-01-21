@@ -1,0 +1,8 @@
+C:\Users\ACER\Documents\GitHub\C#\Condicionais_Exercicio1\Condicionais_Exercicio1\obj\Debug\Condicionais_Exercicio1.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\C#\Condicionais_Exercicio1\Condicionais_Exercicio1\obj\Debug\Condicionais_Exercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\GitHub\C#\Condicionais_Exercicio1\Condicionais_Exercicio1\obj\Debug\Condicionais_Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\C#\Condicionais_Exercicio1\Condicionais_Exercicio1\bin\Debug\Condicionais_Exercicio1.exe.config
+C:\Users\ACER\Documents\GitHub\C#\Condicionais_Exercicio1\Condicionais_Exercicio1\bin\Debug\Condicionais_Exercicio1.exe
+C:\Users\ACER\Documents\GitHub\C#\Condicionais_Exercicio1\Condicionais_Exercicio1\bin\Debug\Condicionais_Exercicio1.pdb
+C:\Users\ACER\Documents\GitHub\C#\Condicionais_Exercicio1\Condicionais_Exercicio1\obj\Debug\Condicionais_Exercicio1.exe
+C:\Users\ACER\Documents\GitHub\C#\Condicionais_Exercicio1\Condicionais_Exercicio1\obj\Debug\Condicionais_Exercicio1.pdb
